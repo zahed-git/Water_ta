@@ -1,0 +1,6 @@
+﻿ES2RT linker log file created on Saturday, June 3, 2023 9:11:11 AM
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Error - Resource Id [ TagIsArray ], containing object type [ Warning ]
+1 errors, 0 warnings - failed.
